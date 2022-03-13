@@ -47,9 +47,11 @@ meme <- c(top_row, bottom_row) %>%
 meme
 image_write(meme, "my_meme.png")
 
+# reference of image ([happy_face]())
+
 ## inspiration for the meme is...
 
-1. I have been enjoying watching squaid game recently
-2. I found meme about stats that really got me
-3. I was sure that other people would empathize with the meme
-4. So I took the sentence from the original meme and used in my meme image
+- I have been enjoying watching squaid game recently
+- I found meme about stats that really got me
+- I was sure that other people would empathize with the meme
+- So I took the sentence from the original meme and used in my meme image
