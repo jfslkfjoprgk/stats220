@@ -47,11 +47,13 @@ meme <- c(top_row, bottom_row) %>%
 meme
 image_write(meme, "my_meme.png")
 
-# reference of image ([happy_face]())
+## reference of image 
+- ([happy_face](https://static.wikia.nocookie.net/6b3c6352-9879-47f6-a16a-06f932cd1ea4/scale-to-width/755))
+- ([confused_face](https://assets3.thrillist.com/v1/image/3011647/1584x1056/crop;webp=auto;jpeg_quality=60;progressive.jpg))
 
 ## inspiration for the meme is...
 
-- I have been enjoying watching squaid game recently
-- I found meme about stats that really got me
-- I was sure that other people would empathize with the meme
-- So I took the sentence from the original meme and used in my meme image
+1. I have been enjoying watching squaid game recently
+2. I found meme about stats that really got me
+3. I was sure that other people would empathize with the meme
+4. So I took the sentence from the original meme and used in my meme image
