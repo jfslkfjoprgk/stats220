@@ -5,7 +5,8 @@
 install.packages("magick")
 library(magick)
 
-# square one
+
+#square one
 happy_text <- image_blank(width = 500, height = 500, color = "#FFFF00") %>%
   image_annotate(text = "t test is significant at p < 0.05",
                  color = "#FF0000",
