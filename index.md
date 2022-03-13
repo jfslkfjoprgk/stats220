@@ -52,7 +52,7 @@ image_write(meme, "my_meme.png")
 - ([confused_face](https://assets3.thrillist.com/v1/image/3011647/1584x1056/crop;webp=auto;jpeg_quality=60;progressive.jpg))
 
 ## This is original/referenced meme 
--![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fstatsmemes%2Fphotos%2Fsad-reacs-onlyms%2F568297666875864%2F&psig=AOvVaw2qe9zQYGCxky9LdFIqstZn&ust=1647286023186000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjl8OPow_YCFQAAAAAdAAAAABAD)
+-![](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/28379595_568297666875864_3353610123028126092_n.png?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=2pMAK7VHRB0AX8w75YS&_nc_ht=scontent-gmp1-1.xx&oh=00_AT_5kHSUd0iPlxMJ_Mt8iVXGQcjn9iSxvj40tPtu2SfZ5w&oe=625321F7)
 
 ## inspiration for the meme is...
 
