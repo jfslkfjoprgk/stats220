@@ -1,6 +1,6 @@
 # Kia Ora
 
-This is the website that statistic student from University of Auckland made for the first time. I might be unexperienced and made a lot of mistakes but hope I get to learn a lot from stats 220.
+This is the website that statistic student from **University of Auckland** made for the first time. I might be unexperienced and made a lot of mistakes but hope I get to learn a lot from stats 220.
 
 ## This is *meme* i made for the first time!
 
