@@ -7,7 +7,7 @@ This is the website that statistic student from **University of Auckland** made 
 ![](my_meme.png)
 
 ## These are the codes I used to make this *meme*
-
+```
 install.packages("magick")
 library(magick)
 
@@ -47,11 +47,13 @@ meme <- c(top_row, bottom_row) %>%
 meme
 image_write(meme, "my_meme.png")
 
+```
+
 ## reference of image 
 - ([happy_face](https://static.wikia.nocookie.net/6b3c6352-9879-47f6-a16a-06f932cd1ea4/scale-to-width/755))
 - ([confused_face](https://assets3.thrillist.com/v1/image/3011647/1584x1056/crop;webp=auto;jpeg_quality=60;progressive.jpg))
 
-## This is original/referenced *meme* 
+## This is referenced *meme* 
 -![](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/28379595_568297666875864_3353610123028126092_n.png?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=2pMAK7VHRB0AX8w75YS&_nc_ht=scontent-gmp1-1.xx&oh=00_AT_5kHSUd0iPlxMJ_Mt8iVXGQcjn9iSxvj40tPtu2SfZ5w&oe=625321F7)
 
 ## inspiration for the *meme* is...
