@@ -49,16 +49,16 @@ image_write(meme, "my_meme.png")
 
 ```
 
-## reference of image 
+## Reference of image 
 - ([happy_face](https://static.wikia.nocookie.net/6b3c6352-9879-47f6-a16a-06f932cd1ea4/scale-to-width/755))
 - ([confused_face](https://assets3.thrillist.com/v1/image/3011647/1584x1056/crop;webp=auto;jpeg_quality=60;progressive.jpg))
 
 ## This is the referenced *meme* 
 -![](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.18169-9/28379595_568297666875864_3353610123028126092_n.png?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=2pMAK7VHRB0AX8w75YS&_nc_ht=scontent-gmp1-1.xx&oh=00_AT_5kHSUd0iPlxMJ_Mt8iVXGQcjn9iSxvj40tPtu2SfZ5w&oe=625321F7)
 
-## inspiration for the *meme* is...
+## Motivation for the *meme* is...
 
 1. I have been enjoying watching squaid game recently
 2. I found meme about stats that really got me
-3. I was sure that other people would empathize with the meme
-4. So I took the sentence from the original meme and used in my meme image
+3. I was sure that other people would also related to the meme
+4. So I took the sentence from the referenced meme and adapt it into my meme.
